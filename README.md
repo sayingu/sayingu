@@ -4,7 +4,7 @@
 
 |Title|Period|Lang|Customer|Contractor|
 |-----|------|--------|--------|----------|
-|[LG CNS _EnTranslator_ 개발 (재택)](#lg-cns-entranslator-개발)|2023. 06 ~ 2024. 04|React (Nextjs)|LG CNS|쉼|
+|[LG CNS _EnTranslator_ 개발 (재택)](#lg-cns-entranslator-개발)|2023. 06 ~ 2024. 09|React (Nextjs)|LG CNS|쉼|
 |현대오토에버 _임직원몰_ 유지보수 (재택)|2022. 07 ~ 2022. 12|Java, Vuejs|현대오토에버|키트웍스|
 |[LG CNS _VPA_ 유지보수 (재택)](#lg-cns-vpa-유지보수)|2022. 01 ~ 2022. 03|Java, React|LG CNS|쉼|
 |SEMES|2021. 06 ~ 2021. 11|Java|SEMES|아이티사람들|
@@ -34,8 +34,8 @@
 
 #### LG CNS EnTranslator 개발
 
-- 기간: 2023. 06 ~ 2024. 04
-- 발주사: LG ENSOL
+- 기간: 2023. 06 ~ 2024. 09
+- 발주사: LG CNS
 - 수행사: LG CNS
 - 계약사: 쉼
 
@@ -43,6 +43,7 @@
 2. App router 는 출시 된지 얼마 안되었기에, Page router 로 진행
 3. 대형 프로젝트는 아니기 때문에, 컴포넌트의 구조를 단순화 함
 4. 구현이 복잡한 기능에만 추가 라이브러리를 사용
+5. LG 에너지 솔루션 완료 후, LG 전자등에 추가 (유지보수)
 
 #### LG CNS VPA 유지보수
 
