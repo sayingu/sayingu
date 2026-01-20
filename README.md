@@ -4,7 +4,7 @@
 
 |Title|Period|Lang|Customer|Contractor|
 |-----|------|--------|--------|----------|
-|[LG CNS _EnTranslator_ 개발 (재택)](#lg-cns-entranslator-개발)|2023. 06 ~ 2025. 03|React (Nextjs)|LG CNS|쉼|
+|[LG CNS _EnTranslator_ 개발 (재택)](#lg-cns-entranslator-개발)|2023. 06 ~ 현재|React (Nextjs)|LG CNS|쉼|
 |현대오토에버 _임직원몰_ 유지보수 (재택)|2022. 07 ~ 2022. 12|Java, Vuejs|현대오토에버|키트웍스|
 |[LG CNS _VPA_ 유지보수 (재택)](#lg-cns-vpa-유지보수)|2022. 01 ~ 2022. 03|Java, React|LG CNS|쉼|
 |SEMES|2021. 06 ~ 2021. 11|Java|SEMES|아이티사람들|
