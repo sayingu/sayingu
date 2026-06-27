@@ -32,7 +32,7 @@
 
 ### 상주 / 재택 프로젝트 상세
 
-#### LG CNS EnTranslator 개발
+#### LG CNS EnTranslator 개발 및 유지보수
 
 - 기간: 2023. 06 ~ 현재
 - 발주사: LG CNS
